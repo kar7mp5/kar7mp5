@@ -1,17 +1,17 @@
 ## Hi there 👋
 
 <details>
-<summary>### Education</summary>
+<summary><h3>Education</h3></summary>
 - **인하대학교**, 컴퓨터공학과 (2023.03 ~ 현재)
 </details>
 
 <details>
-<summary>### Experiences</summary>
+<summary><h3>Experiences</h3></summary>
 - **Google Machine Learning Bootcamp** - 2024, 5기
 </details>
 
 <details>
-<summary>### Projects</summary>
+<summary><h3>Projects</h3></summary>
 
 #### Python Library
 - **Korean News Scraper** - 2024.03 - [Project Link](https://github.com/kar7mp5/korean-news-scraper)  
@@ -33,13 +33,10 @@
 </details>
 
 <details>
-<summary>### Awards</summary>
-
+<summary><h3>Awards</h3></summary>
 - **한국코드페어 해커톤 과학기술정보통신부 장관상** - 2022.12  
 - **AWS, KT AICE와 함께하는 빅데이터, AI 경진대회 데이터 분석 TOP6** - 2023.07  
 - **인하대학교 탄소중립 아카데미 2기 팀 우수상** - 2024.06  
 - **인하대학교 탄소중립 아카데미 2기 개인 우수상** - 2024.06  
 - **Kaggle 대회**: [보험 크로스 셀링 이진 분류](https://www.kaggle.com/competitions/playground-series-s4e7) - 상위 3.7% (2234명 중 81등) - 2024.07
-
 </details>
-
