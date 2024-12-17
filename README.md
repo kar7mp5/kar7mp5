@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github Page 👋
 
 <details>
 <summary><h3>Tech Stack</h3></summary>
