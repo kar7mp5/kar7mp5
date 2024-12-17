@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 <details>
-<summary>## Education</summary>
+<summary>### Education</summary>
 - **인하대학교**, 컴퓨터공학과 (2023.03 ~ 현재)
 </details>
 
 <details>
-<summary>## Experiences</summary>
+<summary>### Experiences</summary>
 - **Google Machine Learning Bootcamp** - 2024, 5기
 </details>
 
 <details>
-<summary>## Projects</summary>
+<summary>### Projects</summary>
 
-### Python Library
+#### Python Library
 - **Korean News Scraper** - 2024.03 - [Project Link](https://github.com/kar7mp5/korean-news-scraper)  
   Developed and deployed a Python library for collecting data to train Large Language Models (LLM).  
   This was my first Python library, and while there were many areas to improve, it was a great experience learning about Python deployment and automation.
@@ -22,7 +22,7 @@
   Developed a crawler for collecting news by category from Notion. During development, access to Notion's database was challenging, leading to the creation of a Python library for better integration.  
   I set up a server running on a Raspberry Pi that works every 4 hours to upload relevant news to Notion.
 
-### AI
+#### AI
 - **Reinforcement Learning: Drone Project** - 2024.01 ~ 2024.02 - [Project Link](https://github.com/kar7mp5/Drone_Simulation)  
   Developed a simulation for drone control using reinforcement learning. Focused on both the physical engine and reinforcement learning algorithms.
 
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary>## Awards</summary>
+<summary>### Awards</summary>
 - **한국코드페어 해커톤 과학기술정보통신부 장관상** - 2022.12  
 - **AWS, KT AICE와 함께하는 빅데이터, AI 경진대회 데이터 분석 TOP6** - 2023.07  
 - **인하대학교 탄소중립 아카데미 2기 팀 우수상** - 2024.06  
