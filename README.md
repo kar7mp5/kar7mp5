@@ -2,6 +2,7 @@
 
 <details>
 <summary><h3>Tech Stack</h3></summary>
+  
 #### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=C%2B%2B&logoColor=white)
