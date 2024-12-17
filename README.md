@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<details>
 <summary>
 ## Education
 - 인하대학교 컴퓨터공학과 2023.03 ~
@@ -38,6 +39,8 @@ LLM(Large Language Model) 공부를 목적으로 '[Attention is all you need](ht
 ## Award
 - 한국코드페어 해커톤 과학기술정보통신부 장관상 - 2022.12  
 - AWS, KT AICE와 함께하는 빅데이터, AI 경진대회 데이터 분석 TOP6 - 2023.07
+</details>
+
 - 인하대학교 탄소중립 아카데미 2기 팀 우수상 - 2024.06
 - 인하대학교 탄소중립 아카데미 2기 개인 우수상 - 2024.06
 - Kaggle:[Binary Classification of Insurance Cross Selling](https://www.kaggle.com/competitions/playground-series-s4e7) 81/2234(등) 상위 3.7% - 2024.07
