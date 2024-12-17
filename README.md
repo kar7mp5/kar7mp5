@@ -21,7 +21,8 @@
   This was my first Python library, and while there were many areas to improve, it was a great experience learning about Python deployment and automation.
 
 - **Notion News Crawler** - 2024.07 - [Project Link](https://github.com/kar7mp5/Notion_News_Crawler), [Blog](https://kar7mp5.tistory.com/entry/%EB%85%B8%EC%85%98-%EB%A9%94%ED%81%AC%EB%A1%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%A0%9C%EC%9E%91-%EC%9D%BC%EA%B8%B0)  
-  Developed a crawler for collecting news by category from Notion. During development, access to Notion's database was challenging, leading to the creation of a Python library for better integration.  
+  Developed a crawler for collecting news by category from Notion.  
+  During development, access to Notion's database was challenging, leading to the creation of a Python library for better integration.  
   I set up a server running on a Raspberry Pi that works every 4 hours to upload relevant news to Notion.
 
 #### AI
