@@ -1,7 +1,7 @@
 ## Welcome to my Github 👋
 
 ### Dev Blogs
-[SlashPage](https://slashpage.com/kar7mp5/dev), [Tistory(outdated)](https://kar7mp5.tistory.com/)
+[**SlashPage**](https://slashpage.com/kar7mp5/dev), [**Tistory(outdated)**](https://kar7mp5.tistory.com/)
 
 <details>
 <summary><h3>Tech Stack</h3></summary>
