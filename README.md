@@ -34,9 +34,12 @@
 
 <details>
 <summary>### Awards</summary>
+
 - **한국코드페어 해커톤 과학기술정보통신부 장관상** - 2022.12  
 - **AWS, KT AICE와 함께하는 빅데이터, AI 경진대회 데이터 분석 TOP6** - 2023.07  
 - **인하대학교 탄소중립 아카데미 2기 팀 우수상** - 2024.06  
 - **인하대학교 탄소중립 아카데미 2기 개인 우수상** - 2024.06  
 - **Kaggle 대회**: [보험 크로스 셀링 이진 분류](https://www.kaggle.com/competitions/playground-series-s4e7) - 상위 3.7% (2234명 중 81등) - 2024.07
+
 </details>
+
