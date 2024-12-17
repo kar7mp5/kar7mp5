@@ -28,6 +28,12 @@
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
 
+#### Databases
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F6D02F?style=for-the-badge&logo=ChromaDB&logoColor=white)
+![FAISSDB](https://img.shields.io/badge/FAISSDB-1D8A8E?style=for-the-badge&logo=FAISSDB&logoColor=white)
+
 #### Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
