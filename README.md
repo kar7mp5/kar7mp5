@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-### Languages
+<details>
+<summary><h3>Tech Stack</h3></summary>
 
 <details>
-<summary><h3>Languages</h3></summary>
+<summary><h4>Languages</h4></summary>
   
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -14,36 +15,34 @@
 
 </details>
 
-### Frameworks & Libraries
-
 <details>
-<summary><h3>Frameworks & Libraries</h3></summary>
+<summary><h4>Frameworks & Libraries</h4></summary>
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
 </details>
 
-### Tools
-
 <details>
-<summary><h3>Tools</h3></summary>
+<summary><h4>Tools</h4></summary>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
 
 </details>
 
-### Cloud Services
-
 <details>
-<summary><h3>Cloud Services</h3></summary>
+<summary><h4>Cloud Services</h4></summary>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+
+</details>
+
 </details>
 
 <details>
