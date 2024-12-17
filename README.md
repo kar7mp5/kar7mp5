@@ -2,7 +2,7 @@
 
 <details>
 <summary><h3>Tech Stack</h3></summary>
-  
+
 #### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -17,6 +17,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B5C?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 #### Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
@@ -26,7 +27,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+
+#### Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 </details>
+
 
 <details>
 <summary><h3>Education</h3></summary>
@@ -34,11 +41,13 @@
 - **Inha University**, Computer Science Engineering (2023.03 ~ now)
 </details>
 
+
 <details>
 <summary><h3>Experiences</h3></summary>
 
   - **Google Machine Learning Bootcamp, 5th** - 2024.07~11  
 </details>
+
 
 <details>
 <summary><h3>Projects</h3></summary>
@@ -62,6 +71,7 @@
   Implemented core components of the transformer model from scratch.
 
 </details>
+
 
 <details>
 <summary><h3>Awards</h3></summary>
