@@ -55,7 +55,7 @@
 <summary><h3>Experiences</h3></summary>
 
   - **Google Machine Learning Bootcamp, 5th** - 2024.07~11
-  - **Nursing Department Undergraduate Research Student** - 2024.10~12
+  - **Undergraduate Research Student in nursing department** - 2024.10~12
   - **Undergraduate research student in aerospace engineering** - 2025.01~current
 </details>
 
