@@ -1,5 +1,7 @@
 ## Welcome to my Github 👋
 
+Happy new year!!
+
 ### Dev Blogs
 [**SlashPage**](https://slashpage.com/kar7mp5/dev), [**Tistory(outdated)**](https://kar7mp5.tistory.com/)
 
@@ -55,7 +57,7 @@
 <summary><h3>Experiences</h3></summary>
 
   - **Google Machine Learning Bootcamp, 5th** - 2024.07~11
-  - **Undergraduate Research Student in nursing department** - 2024.10~12
+  - **Undergraduate research student in nursing department** - 2024.10~12
   - **Undergraduate research student in aerospace engineering** - 2025.01~current
 </details>
 
