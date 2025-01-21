@@ -3,7 +3,7 @@
 Happy new year!!
 
 ### Dev Blogs
-[**SlashPage**](https://slashpage.com/kar7mp5/dev), [**Tistory(outdated)**](https://kar7mp5.tistory.com/)
+[**Tistory**](https://kar7mp5.tistory.com/) [**SlashPage(outdated)**](https://slashpage.com/kar7mp5/dev)
 
 <details>
 <summary><h3>Tech Stack</h3></summary>
