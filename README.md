@@ -1,6 +1,4 @@
-## Welcome to my Github 👋
-
-Happy new year!!
+## MinSup Kim
 
 #### Dev Blogs
 [**Tistory**](https://kar7mp5.tistory.com/) [**SlashPage(outdated)**](https://slashpage.com/kar7mp5/dev)
