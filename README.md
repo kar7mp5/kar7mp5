@@ -47,14 +47,14 @@ Happy new year!!
 
 
 <details>
-<summary><h3>Education</h3></summary>
+<summary><h4>Education</h4></summary>
   
 - **Inha University**, Computer Science Engineering (2023.03 ~ now)
 </details>
 
 
 <details>
-<summary><h3>Experiences</h3></summary>
+<summary><h4>Experiences</h4></summary>
 
   - **Google Machine Learning Bootcamp, 5th** - 2024.07~11
   - **Undergraduate research student in nursing department** - 2024.10~12
@@ -63,7 +63,7 @@ Happy new year!!
 
 
 <details>
-<summary><h3>Projects</h3></summary>
+<summary><h4>Projects</h4></summary>
 
 #### Python Library
 - **Korean News Scraper** - 2024.03 - [Project Link](https://github.com/kar7mp5/korean-news-scraper)  
@@ -87,7 +87,7 @@ Happy new year!!
 
 
 <details>
-<summary><h3>Awards</h3></summary>
+<summary><h4>Awards</h4></summary>
   
 - **한국코드페어 해커톤 과학기술정보통신부 장관상** - 2022.12  
 - **AWS, KT AICE와 함께하는 빅데이터, AI 경진대회 데이터 분석 TOP6** - 2023.04 ~ 07  
