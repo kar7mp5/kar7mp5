@@ -6,7 +6,7 @@ Happy new year!!
 [**Tistory**](https://kar7mp5.tistory.com/) [**SlashPage(outdated)**](https://slashpage.com/kar7mp5/dev)
 
 <details>
-<summary><h3>Tech Stack</h3></summary>
+<summary><h4>Tech Stack</h4></summary>
 
 #### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
